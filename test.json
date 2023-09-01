@@ -1,0 +1,41 @@
+{
+    "status": true,
+    "message": "successfully fetched all the data from cateogory 1003",
+    "data": [
+        {
+            "category_id": "1003",
+            "thumbnail": "https://i.ibb.co/NTncwqH/luahg-at-pain.jpg",
+            "title": "Laugh at My Pain",
+            "authors": [
+                {
+                    "profile_picture": "https://i.ibb.co/XVHM7NP/kevin.jpg",
+                    "profile_name": "Kevin Hart",
+                    "verified": false
+                }
+            ],
+            "others": {
+                "views": "1.1K",
+                "posted_date": "13885"
+            }
+        },
+        {
+            "category_id": "1003",
+            "thumbnail": "https://i.ibb.co/Yc4p5gD/inside-amy.jpg",
+            "title": "Inside Amy Schumer",
+            "authors": [
+                {
+                    "profile_picture": "https://i.ibb.co/YD2mqH7/amy.jpg",
+                    "profile_name": "Amy Schumer",
+                    "verified": ""
+                }
+            ],
+            "others": {
+                "views": "3.6K",
+                "posted_date": "15147"
+            }
+        }
+
+
+  
+    ]
+}
