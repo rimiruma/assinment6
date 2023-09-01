@@ -39,7 +39,10 @@ body {
 
 .video-card img {
     max-width: 100%;
-    height: auto;
+
+    height: 200px;
+    width: 312px;
+    border-radius: 10px;
 }
 
 .video-card h3 {
@@ -48,3 +51,35 @@ body {
 }
 
 /* Add more CSS styles as needed for your design */
+
+.ProfileNameImage{
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.ProfileNameImage h3{
+    font-weight: bold;
+}
+
+.ProfileNameImage img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.authorName{
+    margin-left: 50px;
+}
+
+.autheorView{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+#verifiedIcon{
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
